@@ -3,7 +3,8 @@
 - **Description/Motivation**: Review and refactor the banking assigment of week 18. Build out the back end and complete badbank application.
 - **Installation Guidelines**: main payge of the repository. Above the list of files, click **Code.** COpy the URL for the respository. Open Terminal and change the current working directory. Type **git clone** and paste URL. Press enter to create your local clone.
   start use Docker and access the localhost.
-- **Screenshots**:
+- **Screenshots**:<img width="634" alt="Screen Shot 2022-11-30 at 12 41 58 AM" src="https://user-images.githubusercontent.com/102649976/204749089-34918eb1-f039-4c95-aa6b-c0acd428b224.png">
+
 - **Technology used**: Build front end with HTML and JavaScript and refactor with React standalone. Use Express data abstraction layer dal with mongodb and docker.
 - **Features:** Your project’s features, and any future features you would like to include.
 - **License:** Copyright 2022 COPYRIGHT May Rogers
